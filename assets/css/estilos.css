@@ -47,3 +47,7 @@ header .container b {
   font-size: 32px;
   color: rgb(167, 159, 60);
 }
+
+.card {
+  background-color: rgb(220, 236, 234);
+}
