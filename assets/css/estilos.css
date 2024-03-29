@@ -38,3 +38,12 @@ body {
 
 }
 
+.container span {
+  font-size: 24px;
+  color: rgb(167, 159, 60);
+}
+
+header .container b {
+  font-size: 32px;
+  color: rgb(167, 159, 60);
+}
